@@ -2,4 +2,4 @@ resolusi-fahmi
 - konsisten memahami bahasa pemrograman
 - membuat project seperti website aplikasi dll
 - menjual sebuah website ke platform
-- membuat e-commerce
+- membuat game
